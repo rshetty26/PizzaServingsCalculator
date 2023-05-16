@@ -2,16 +2,15 @@
 
 <h2>Description</h2>
 This is a simple program that utilizes building frames in Netbeans GUI creator. 
-<br />
+<br/><br/>
 The user is allowed to input the size of the pizza and the program will use a special function in order to calculate the amount of servings.
-<br />
+<br/><br/>
 Examples:
-<br/>
+<br/><br/>
 GUI:
-<br/>
+<br/><br/>
 <img src="https://i.imgur.com/9OVXRJy.png"/>
-<br/>
-<br/>
+<br/><br/>
 Function:
-<br/>
+<br/><br/>
 <img src="https://i.imgur.com/HAdVuuW.png"/>
