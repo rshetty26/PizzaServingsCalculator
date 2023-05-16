@@ -8,9 +8,9 @@ The user is allowed to input the size of the pizza and the program will use a sp
 Examples:
 <br/><br/>
 GUI:
-<br/><br/>
+<br/>
 <img src="https://i.imgur.com/9OVXRJy.png"/>
 <br/><br/>
 Function:
-<br/><br/>
+<br/>
 <img src="https://i.imgur.com/HAdVuuW.png"/>
