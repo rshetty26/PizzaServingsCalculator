@@ -10,7 +10,7 @@ Examples:
 GUI:
 <br/>
 <img src="https://i.imgur.com/9OVXRJy.png"/>
-<br/><br/>
+<br/>
 Function:
 <br/>
 <img src="https://i.imgur.com/HAdVuuW.png"/>
